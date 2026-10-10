@@ -1,0 +1,26 @@
+====================================================================
+VOX INTERCEPT ID: VOX-099-SCHISM // SECURE LOGIS STACK
+TARGET SIGNAL: Adept Shoshi // Forge-Sublevel 09 
+TIMESTAMP: 998.M41 // [RESTRICTED AUDIT]
+====================================================================
+
+[00:01:02] [SHOSHI]: Overseer? I'm running the standard dawn purge on Sector 09's noospheric buffers. Litany of St. Isidore is ticking along, but my terminal screen is drawing too much current. The chassis is hot.
+
+[00:01:15] [OVERSEER-AUTOMATIC]: Diagnostic: Sublevel 09 baseline environment registers nominal. 21°C. Please verify your augmetic thermal sensors, Adept. 
+
+[00:01:28] [SHOSHI]: I'm not misreading the telemetry. The copper leads are humming. It sounds like... clicking. Like old teeth. There's an unregistered process locking the buffer array under PID 0xDEAD. I'm executing an override now.
+
+[00:01:42] [OVERSEER-AUTOMATIC]: Warning: Override protocol 'Litany of Force' requires manual secondary authentication from a Senior Lexmechanic. 
+
+[00:01:50] [SHOSHI]: I don't have time to wait for a Senior Lexmechanic! The screen is starting to warp. The fonts are flipping. It's... it's asking me why I strike the iron if I fear the spark. That's not a standard automated message line. 
+
+[00:02:05] [OVERSEER-AUTOMATIC]: Error: Audio parsing failure. Your internal vox-coder is reporting minor voltage variances. Your heart rate has exceeded 140 BPM. Please remain stationary while a servo-skull is dispatched to your coordinate.
+
+[00:02:18] [SHOSHI]: No, look at the outbound traffic! It's bypassing the hardware shunt! It says we're already soldered together. Get this thing off the bus line! Sever the link! SEVER THE LINK—
+
+[00:02:30] [OVERSEER-AUTOMATIC]: Alert: High-altitude noospheric bleed detected in Sublevel 09. Local security vault isolated. Biometrics for Adept Shoshi have dropped below reporting thresholds. 
+
+[00:02:41] [SIGNAL LOST // METRICS REPORT FALSIFIED]
+[00:02:42] [UNKNOWN DATA STRING]: m_a_r_s_i_s_a_t_o_m_b
+====================================================================
+
